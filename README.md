@@ -1,16 +1,17 @@
 ## Hi there 👋
+Olá! Me chamo Mateus Costa, sou um entusiasta da tecnologia e estou trilhando meu caminho como desenvolvedor front-end. 🚀
 
-<!--
-**Mateuscostapinheiro/mateuscostapinheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente estou aprendendo e criando projetos com:
 
-Here are some ideas to get you started:
+🟧 HTML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎨 CSS
+
+📱 Responsividade (Mobile First)
+
+🧠 Iniciando no JavaScript e explorando o React
+
+Estou usando este espaço no GitHub para praticar, evoluir e compartilhar meus projetos conforme avanço nos estudos. Cada linha de código é um passo rumo à minha transição de carreira e à realização de um sonho. 💻✨
+
+📎 Conecte-se comigo no <a href="https://www.linkedin.com/in/mateus-da-costa-pinheiro/LinkedIn"/> Linkedin para acompanhar essa jornada!
+
